@@ -1,0 +1,28 @@
+
+form{
+    background-image: url(../app/imagenes/fondo1.jpg);
+    background-size: cover;
+    border-style: double;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 150px;
+    padding: 25px;
+}
+
+#menu{
+    padding-top: 50px;
+    border-style: double;
+    border-radius: 15px;
+}
+
+.fondo{
+    background-color: aqua;
+    background-size: 100vw;
+    color: azure;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    padding-top: 45px;
+}
